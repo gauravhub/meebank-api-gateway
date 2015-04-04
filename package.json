@@ -1,0 +1,12 @@
+{
+  "name": "mb-api-gateway",
+  "version": "1.0.0",
+  "description": "Gateway for Meebank API",
+  "main": "app.js",
+  "author": "Gaurav Dhamija <gauravdhamija83@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "nconf": "*"
+  }
+}
